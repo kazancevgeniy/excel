@@ -1,0 +1,25 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "js project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazancevgeniy/excel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazancevgeniy/excel/issues"
+  },
+  "homepage": "https://github.com/kazancevgeniy/excel#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
